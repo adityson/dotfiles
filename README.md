@@ -3,11 +3,12 @@
 Custom configuration dotfiles for:
 * Bash
 * Vim
+* Gvim
 * Tmux
 * Xmodmap
 
 ## License
 
-Copyright(c) 2020 Aditya Soni. Released under MIT license. See [LICENSE.md][lic] for details.
+Copyright(c) 2020-21 Aditya Soni. Released under MIT license. See [LICENSE.md][lic] for details.
 
 [lic]: LICENSE.md
