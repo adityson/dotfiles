@@ -63,13 +63,6 @@ nnoremap <Down>  :echoe "Use j"<CR>
 
 nnoremap <C-a>  ggVG"+y<CR>
 
-" Templates and auto-completes
-
-" au BufNewFile *.cpp r ~/template.cpp
-
 " .ejs syntax highlighting to be same as html
 au BufNewFile,BufRead *.ejs set filetype=html
-
-" Template for .html files
-au BufNewFile *.html r ~/boiler.html
 
