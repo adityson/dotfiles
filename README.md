@@ -1,6 +1,6 @@
 # Dotfiles
 
-Custom configuration dotfiles for:
+Custom configuration Dotfiles for:
 * Bash
 * Vim
 * Gvim
